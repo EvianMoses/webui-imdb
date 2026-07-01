@@ -128,31 +128,39 @@ the model calls the tool and responds with a numbered list of current titles, ye
 
 the local server started with `python tools_server.py`, listening on port 5005 and logging incoming requests.
 
-![fastapi bridge running in the terminal](assets/screenshots/01-terminal-server-run.png)
+<img width="1228" height="204" alt="Screenshot 2026-07-01 013131" src="https://github.com/user-attachments/assets/97b4c1da-ae24-43f3-9bf0-9816f1187811" />
+
 
 ### live api response from localhost
 
 the `/popular` endpoint returning slimmed json when accessed directly via `http://localhost:5005/popular` in the browser.
 
-![live api response from localhost](assets/screenshots/02-localhost-api-response.png)
+<img width="2872" height="948" alt="Screenshot 2026-07-01 093853" src="https://github.com/user-attachments/assets/8683eb3d-27dc-49c2-a07f-d0b5be15e045" />
 
 ### question and answer in the open-webui chat
 
 the llama 3.1 agent invoking the tool and returning the top popular movies with real-time data.
 
-![question and answer in the open-webui chat](assets/screenshots/03-webui-chat-answer.png)
+<img width="1192" height="736" alt="Screenshot 2026-07-01 020035" src="https://github.com/user-attachments/assets/c70abcdd-f2a1-4f40-b975-875301ff6141" />
+
+<img width="1990" height="710" alt="Screenshot 2026-07-01 134604" src="https://github.com/user-attachments/assets/7ab1c189-fe27-4a62-aac6-159047800b11" />
+
+
 
 ### knowledge base in open-webui
 
 the open-webui knowledge base configured for the agent.
 
-![knowledge base in open-webui](assets/screenshots/04-webui-knowledgebase.png)
+<img width="1906" height="308" alt="Screenshot 2026-07-01 013204" src="https://github.com/user-attachments/assets/70607ba9-7b68-4d6b-b2fe-bfef495fce4a" />
+
 
 ### imdb236 endpoint on rapidapi
 
 the upstream imdb236 `most-popular-movies` endpoint on the rapidapi dashboard.
 
-![imdb236 endpoint on rapidapi](assets/screenshots/05-rapidapi-imdb.png)
+<img width="1228" height="204" alt="Screenshot 2026-07-01 013131" src="https://github.com/user-attachments/assets/818672a6-02b1-4226-a25f-d741782c2eac" />
+<img width="804" height="826" alt="Screenshot 2026-07-01 013638" src="https://github.com/user-attachments/assets/77275081-099e-42f1-8e74-ebd6cc6311c3" />
+
 
 ---
 
