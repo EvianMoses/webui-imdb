@@ -158,7 +158,7 @@ the open-webui knowledge base configured for the agent.
 
 the upstream imdb236 `most-popular-movies` endpoint on the rapidapi dashboard.
 
-<img width="1228" height="204" alt="Screenshot 2026-07-01 013131" src="https://github.com/user-attachments/assets/818672a6-02b1-4226-a25f-d741782c2eac" />
+
 <img width="804" height="826" alt="Screenshot 2026-07-01 013638" src="https://github.com/user-attachments/assets/77275081-099e-42f1-8e74-ebd6cc6311c3" />
 
 
